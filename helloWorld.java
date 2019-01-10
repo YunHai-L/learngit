@@ -4,12 +4,8 @@ class helloWorld{
 		System.out.println("hello Git! I will commit the update");
 		System.out.println("hello helloIf");
 		System.out.println("hello github");
-		System.out.println("hrllo branch");
-<<<<<<< HEAD
-		System.out.println("master commit");
-=======
-		System.out.println("feature1");
->>>>>>> feature1
+		System.out.println("hello branch");
+		System.out.println("hello dev");
 	}
 
 }
