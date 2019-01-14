@@ -6,6 +6,7 @@ class helloWorld{
 		System.out.println("hello github");
 		System.out.println("hello branch");
 		System.out.println("hello --no-ff");
+		System.out.println("hello deleteBug");
 	}
 
 }
