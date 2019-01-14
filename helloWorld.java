@@ -5,7 +5,7 @@ class helloWorld{
 		System.out.println("hello helloIf");
 		System.out.println("hello github");
 		System.out.println("hello branch");
-		System.out.println("hello dev");
+		System.out.println("hello --no-ff");
 	}
 
 }
